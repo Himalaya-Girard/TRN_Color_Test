@@ -1,4 +1,6 @@
-# Color Tester - Inverted Trust Game
+# TRN_Color_Test
+
+## Color Tester - Inverted Trust Game
 
 Interactive to test colors for the experiment.
 
